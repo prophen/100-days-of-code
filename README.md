@@ -10,3 +10,4 @@ My focus is on documentation and learning git. I only had my first successful re
 
 ## Table of Contents
 - [Day 1](./Day-1.md)
+- [Day 2](./Day-2.md)
