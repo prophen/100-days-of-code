@@ -4,7 +4,7 @@ I've attempted this several times and I have yet to get to the end of the challe
 
 My focus is on documentation and learning git. I only had my first successful rebase yesterday (Feb. 15, 2020). I know git is powerful and I want to learn how to use it well.
 
-<center> <a href="https://www.buymeacoffee.com/nikema" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="150px"></a></center>
+<p align="center" ><a href="https://www.buymeacoffee.com/nikema" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="150px"></a></p>
 
 ****
 
