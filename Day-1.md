@@ -14,5 +14,6 @@ It's day one and so far here's what I've done with code:
 
 
 ****
+[My day 1 blog post](https://dev.to/nikema/nikema-s-100-days-of-code-3a3n) (@nikema on dev.to)
 <p align="center"> <a href="https://www.buymeacoffee.com/nikema" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="150px"></a></center></p>
 
