@@ -12,3 +12,4 @@ My focus is on documentation and learning git. I only had my first successful re
 - [Day 1](./Day-1.md)
 - [Day 2](./Day-2.md)
 - [Day 3](./Day-3.md)
+- [Day 4](./Day-4.md)
