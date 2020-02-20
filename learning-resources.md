@@ -1,0 +1,13 @@
+Links from the learn channel in Dev Fundamentals server
+- https://open.appacademy.io/
+- https://frontend.turing.io/
+- https://backend.turing.io/
+- http://academy.mastermnd.io/
+- https://exercism.io/tracks/javascript/learning
+- https://thoughtbot.com/upcase/javascript
+- https://testautomationu.applitools.com/
+- https://welearncode.com/favorite-free-resources/
+- https://www.manning.com/books/grokking-algorithms
+- https://fullstackopen.com/en/
+- https://thegymnasium.com/courses
+- https://progate.com/

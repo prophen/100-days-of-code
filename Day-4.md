@@ -13,6 +13,7 @@ Resources I used today:
 
 Social posts:
 - https://dev.to/nikema/nikema-s-100-days-of-code-day-3-33kl
+- https://twitter.com/dev_nikema/status/1230332042375647233?s=20
 
 ****
 
