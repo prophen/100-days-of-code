@@ -36,6 +36,7 @@ Resources I used today:
    I found out how to inspect the server log here. This was the key to finding the bug. I was using version 12 of postgres and I needed version 11.
 
 Social posts:
+- https://twitter.com/dev_nikema/status/1230757477081214977?s=20
 
 ****
 
