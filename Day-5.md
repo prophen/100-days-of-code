@@ -15,6 +15,12 @@ Resources I used today:
 
    Had a false start with this one. Trying to install mysql2 didn't work. I figured it was an old tutorial and I went back to progate where I found the tutorials for setting up my environment.
 
+- https://progate.com/rails5/study/1/1#/0
+   
+   Finished the first lesson in the Ruby on Rails series.
+
+![First slide of Ruby on Rails lesson](./images/ruby-on-rails-1.png)
+
 - https://community.netlify.com/t/ruby-on-rails-app-does-not-work-on-netlify/982/3 
 
    Ruby on Rails doesn't work on Netlify 😃
