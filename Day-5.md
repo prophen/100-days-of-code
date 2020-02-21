@@ -37,6 +37,7 @@ Resources I used today:
 
 Social posts:
 - https://twitter.com/dev_nikema/status/1230757477081214977?s=20
+- https://dev.to/nikema/nikema-s-100-days-of-code-day-5-5bib
 
 ****
 
