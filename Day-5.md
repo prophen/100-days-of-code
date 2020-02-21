@@ -1,6 +1,10 @@
 # 100 Days of Code - Day 5
 
+<div align='center'>
 
+![Ruby on Rails lesson completed](./images/progate.png)
+
+</div>
 Links to work:
 
 - https://tweet-app-prophen.herokuapp.com/
