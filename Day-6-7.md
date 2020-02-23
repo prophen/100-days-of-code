@@ -14,7 +14,7 @@ Digging into daily.co api
 
 I was able to create my own new room from the API 🙌🏾
 
-## Getting my environment cleaned up
+## Getting my environment cleaned up 🧹
 
 I was using an old version of node and I kept getting this "Possible EventEmitter memory leak" error. This has been going on for months and I decided to fix it today. 
 
@@ -29,6 +29,14 @@ Here's what did it
 >To download, compile, and install the latest release of node, do this:
 
     nvm install node # "node" is an alias for the latest version
+
+## A first with docker 🎉
+
+I started a [Wordpress API and React tutorial today by Traversy Media](https://www.youtube.com/watch?v=fFNXWinbgro) on YouTube. I've worked with local Wordpress before but I've never used a docker compose file to set one up. 
+
+Wordpress Docker Compose File: https://gist.github.com/bradtraversy/faa8de544c62eef3f31de406982f1d42
+
+Very cool and easy compared to proprietary tools and other solutions like MAMP.
 
 *****
 
