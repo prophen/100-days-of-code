@@ -12,12 +12,38 @@ Digging into daily.co api
 
 ![Get / in Insomnia app](images/get-insomnia.png)
 
+I was able to create my own new room from the API 🙌🏾
+
+## Getting my environment cleaned up
+
+I was using an old version of node and I kept getting this "Possible EventEmitter memory leak" error. This has been going on for months and I decided to fix it today. 
+
+I didn't know that [the problem was that I was on an old version of node](https://github.com/nodejs/node/issues/29239) and once I identified that I tried upgrading with homebrew.
+
+`brew upgrade node`
+
+That wasn't the solution to my problem because I am using nvm to manage node versions.
+
+Here's what did it
+
+>To download, compile, and install the latest release of node, do this:
+
+    nvm install node # "node" is an alias for the latest version
+
 *****
 
 Links to work:
 - https://github.com/prophen/daily-js
+- https://[mysubdomain].daily.co/from-insomnia
+- https://github.com/prophen/frontend
 
 Resources I used today:
+
+- https://github.com/facebook/create-react-app
+- https://www.youtube.com/watch?v=fFNXWinbgro
+
+Node
+- https://github.com/nvm-sh/nvm
 
 Swift
 - https://developer.apple.com/documentation/swift/range#see-also
