@@ -4,7 +4,7 @@ It's day 11 and I haven't written in the GitHub log since day 7. I've still been
 
 Added logout to the React frontend for the WordPress site.
 
-![login/logout](https://p112.p2.n0.cdn.getcloudapp.com/items/z8uXxxD1/Screen+Recording+2020-02-26+at+11.18+PM.gif?v=1216b60b0b647f21bade434918387824)
+![login/logout](https://p112.p2.n0.cdn.getcloudapp.com/items/z8uXxxD1/Screen+Recording+2020-02-26+at+11.18+PM.gif)
 
 Today I wrote a plugin for WordPress. I used PHP many years ago. I never felt I had a grasp of it and it's still looks very foreign to me.
 
